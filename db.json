@@ -1,95 +1,9 @@
 {
-  "blogs": [
+  "posts":[
     {
-      "id": 2,
-      "blogTitle": "Adventure",
-      "blogDescription": "This is what adventure feels like",
-      "author": Abc",
-      "category": "lifestyle"
-    },
-    {
-      "id": 3,
-      "blogTitle": "Money",
-      "blogDescription": "This is how Money controls people",
-      "author": DEF",
-      "category": "lifestyle"
-    },
-    {
-      "id": 4,
-      "blogTitle": "Happiness",
-      "blogDescription": "That moment in life is called happiness",
-      "author": "GHI",
-      "category": "Motivation"
-    },
-    {
-      "id": 5,
-      "blogTitle": "Hardwork, key to success",
-      "blogDescription": "Work hard, play hard",
-      "author": "JKL",
-      "category": "Motivation"
-    },
-    {
-      "id": 6,
-      "blogTitle": "Internet",
-      "blogDescription": "Internet has made our life easier",
-      "author": "MNO",
-      "category": "Education"
-    },
-    {
-      "id": 7,
-      "blogTitle": "checking",
-      "blogDescription": "Check",
-      "author": "PQR",
-      "category": "Education"
-    },
-    {
-      "id": 8,
-      "blogTitle": "Tv shows",
-      "blogDescription": "TV shows are great",
-      "author": "STU",
-      "category": "Education"
-    },
-    {
-      "id": 10,
-      "blogTitle": "Investments",
-      "blogDescription": "Invest for future",
-      "author": "VWX",
-      "category": "lifestyle"
-    },
-    {
-      "id": 11,
-      "blogTitle": "Savings",
-      "blogDescription": "Savings will save you in future.",
-      "author": "YZ",
-      "category": "lifestyle"
-    },
-    {
-      "id": 12,
-      "blogTitle": "Movies",
-      "blogDescription": "movies manipulate people",
-      "author": "A123",
-      "category": "lifestyle"
-    },
-    {
-      "id": 14,
-      "blogTitle": "History",
-      "blogDescription": "History is wonderful",
-      "author": "B123",
-      "category": "Education"
-    },
-    {
-      "id": 16,
-      "blogTitle": "rap music",
-      "blogDescription": "Eminem is the best rapper",
-      "author": "C123",
-      "category": "music"
-    },
-    {
-      "id": 17,
-      "blogTitle": "Navy ",
-      "blogDescription": "Awesome life",
-      "author": "D123",
-      "category": "Defence"
+      "id" : 0,
+      "title": "First post!",
+      "content" : "My first content!"
     }
   ]
 }
